@@ -18,6 +18,6 @@
     <namespace>CRM/Membershipperiods</namespace>
   </civix>
   <urls>
-    <url desc="Documentation">https://github.com/totten/org.civicrm.exampletests</url>
+    <url desc="Documentation">https://github.com/rahulnagpal1989/CiviCRM/</url>
   </urls>
 </extension>
