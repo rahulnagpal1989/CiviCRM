@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<extension key="org.civicrm.membershipperiods" type="module">
+  <file>membershipperiods</file>
+  <name>Membership Periods</name>
+  <description>An example extension containing unit tests</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Rahul Nagpal</author>
+    <email>rahulnagpal200@gmail.com</email>
+  </maintainer>
+  <releaseDate>2017-12-06</releaseDate>
+  <version>1.0-alpha1</version>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Membershipperiods</namespace>
+  </civix>
+  <urls>
+    <url desc="Documentation">https://github.com/totten/org.civicrm.exampletests</url>
+  </urls>
+</extension>
